@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\bin\Debug\Quiz2_2.exe.config
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\bin\Debug\Quiz2_2.exe
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\bin\Debug\Quiz2_2.pdb
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.Form1.resources
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.Properties.Resources.resources
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.exe
+C:\Users\Ali\Desktop\OOP2_\Quiz_2_2\Quiz2_2\Quiz2_2\obj\Debug\Quiz2_2.pdb
